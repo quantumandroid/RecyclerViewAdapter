@@ -1,7 +1,6 @@
 package com.rvadapter;
 
 import android.content.res.ColorStateList;
-import android.databinding.BindingAdapter;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.text.Spannable;
@@ -11,6 +10,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import java.util.Locale;
+
+import androidx.databinding.BindingAdapter;
 
 public class SearchAdapter {
 
